@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125">
+<rect width="1200" height="125" rx="12" fill="#080e0b"/>
+<path d="M0 70 Q150 35 300 70 T600 70 T900 70 T1200 70" fill="none" stroke="#39ff88" stroke-opacity=".35" stroke-width="2">
+<animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 70 Q150 35 300 70 T600 70 T900 70 T1200 70;M0 70 Q150 100 300 70 T600 70 T900 70 T1200 70;M0 70 Q150 35 300 70 T600 70 T900 70 T1200 70"/>
+</path>
+<text x="600" y="55" text-anchor="middle" fill="#39ff88" font-family="monospace" font-size="18">END OF TRANSMISSION // KEEP BUILDING</text>
+<text x="600" y="91" text-anchor="middle" fill="#8ba995" font-family="monospace" font-size="12">JB-DEV • BENIN • BACKEND / SECURITY / LINUX</text>
+</svg>
