@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[ `ABOUT` ](#-whoami) · [ `FOCUS` ](#-areas-of-interest) · [ `STACK` ](#-tech-stack) · [ `PROJECTS` ](#-selected-projects) · [ `STATS` ](#-github-telemetry) · [ `CONTACT` ](#-connect)
+[ `ABOUT` ](#-whoami) · [ `FOCUS` ](#-areas_of_interest) · [ `STACK` ](#-tech_stack) · [ `PROJECTS` ](#-selected_projects) · [ `STATS` ](#-github_telemetry) · [ `CONTACT` ](#-connect)
 
 </div>
 
@@ -111,7 +111,7 @@ MODE       : Learn - Build - Improve
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=linux,fedora,git,github,vscode,bash&theme=dark" alt="Tools and development environment" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash&theme=dark" alt="Tools and development environment" />
 
 </div>
 
